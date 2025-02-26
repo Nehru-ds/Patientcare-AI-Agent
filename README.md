@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ## How to Run the Program
 1. **Clone the repository**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/Nehru-ds/Patientcare-AI-Agent.git
    cd <project-folder>
    ```
 2. **Install dependencies**
@@ -61,4 +61,4 @@ pip install -r requirements.txt
 - Cloud-based deployment using AWS/GCP/Azure.
 
 ## Contact
-For queries or contributions, reach out at **your-email@example.com**
+For queries or contributions, reach out at **nehruraj@gmail.com**
