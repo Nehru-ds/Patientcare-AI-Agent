@@ -61,4 +61,6 @@ pip install -r requirements.txt
 - Cloud-based deployment using AWS/GCP/Azure.
 
 ## Contact
-For queries or contributions, reach out at **nehruraj@gmail.com**
+For queries or contributions, reach out at **nehruraj@gmail.com**,**nehruraj@pionedata.com**
+www.pionedata.com
+
