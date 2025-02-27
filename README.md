@@ -42,7 +42,7 @@ pip install -r requirements.txt
    ```
 3. **Run the main script**
    ```sh
-   python agentic_ai_healthcare.py
+   python .\src\agentic_ai_healthcare.py
    ```
 4. **Expected Output**
    - The model will be trained and deployed.
